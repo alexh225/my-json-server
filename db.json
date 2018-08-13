@@ -40,7 +40,7 @@
     {
       "id": 3,
       "description": "Machine 3",
-      "name": "title": "Machine 3",
+      "name": "Machine 3",
       "status":"Running",
       "cycleSpeed":"25"
     }
