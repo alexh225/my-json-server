@@ -27,7 +27,7 @@
       "id": 1,
       "description": "Machine 1",
       "name": "Machine 1",
-      "status":"status":"Safety Stop",
+      "status":"Safety Stop",
       "cycleSpeed":"10"
     },
     {
