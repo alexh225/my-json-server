@@ -4,22 +4,22 @@
       "id": 1,
       "title": "Post 1",
       "name": "Machine 1",
-      "status":"status":"Safety Stop",
+      "status":"Safety Stop",
       "cycleSpeed":"55"
     },
     {
       "id": 2,
       "title": "Post 2",
       "name": "Machine 1",
-      "status":"status":"Error",
+      "status":"Error",
        "cycleSpeed":"15"
     },
     {
       "id": 3,
       "title": "Post 3",
       "name": "Machine 1",
-      "status":"status":"Running",
-       "cycleSpeed":"25"
+      "status":"Running",
+      "cycleSpeed":"25"
     }
   ],
    "machines": [
@@ -34,14 +34,14 @@
       "id": 2,
       "description": "Machine 2",
       "name": "Machine 2",
-      "status":"status":"Error",
-       "cycleSpeed":"0"
+      "status":"Error",
+      "cycleSpeed":"0"
     },
     {
       "id": 3,
       "description": "Machine 3",
       "name": "title": "Machine 3",
-      "status":"status":"Running",
+      "status":"Running",
       "cycleSpeed":"25"
     }
   ],
